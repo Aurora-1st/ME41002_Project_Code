@@ -1,0 +1,6 @@
+,index,mean,std
+0,PSNR,"tf.Tensor(19.233483870824177, shape=(), dtype=float64)","tf.Tensor(1.4033426845789918, shape=(), dtype=float64)"
+1,SSIM,"tf.Tensor(0.5294362, shape=(), dtype=float32)","tf.Tensor(0.079217464, shape=(), dtype=float32)"
+2,FSIM,"tf.Tensor(0.8608008314289177, shape=(), dtype=float64)","tf.Tensor(0.021950757072274257, shape=(), dtype=float64)"
+3,ISSM,"tf.Tensor(0.0, shape=(), dtype=float64)","tf.Tensor(0.0, shape=(), dtype=float64)"
+4,NQM,"tf.Tensor(inf, shape=(), dtype=float32)","tf.Tensor(nan, shape=(), dtype=float32)"
