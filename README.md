@@ -2,13 +2,13 @@
 ## Architecture
 ![The architecture of DenseSTSR.](/imgs/model_structure.png)
 ### Patch Extraction
-CNN - shallow features extraction
+* CNN - shallow features extraction
 
 ### Deep Feature Extraction
-Multi-head Self-Attention
-Dense connection
-Residual connection
+* Multi-head Self-Attention
+* Dense connection
+* Residual connection
 
 ### Post Upsampling
-PixelShuffle - upsampling
-CNN - reconstruction
+* PixelShuffle - upsampling
+* CNN - reconstruction
